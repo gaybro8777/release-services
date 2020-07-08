@@ -57,7 +57,7 @@ pytest-runner==4.2
 python-dateutil==2.6.1
 python-hglib==2.6.1
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.1
 raven==6.9.0
 requests==2.20.1
 requests-futures==0.9.9
