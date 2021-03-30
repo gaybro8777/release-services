@@ -14,7 +14,7 @@ MarkupSafe==1.1.1
 nwdiag==1.0.4
 packaging==19.0
 Pillow==5.4.1
-Pygments==2.3.1
+Pygments==2.7.4
 pyparsing==2.3.1
 pytz==2018.9
 requests==2.21.0
